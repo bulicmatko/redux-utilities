@@ -1,7 +1,7 @@
 const { describe, it } = require('mocha')
 const { expect } = require('chai')
 
-const createActionTypes = require('../lib/create-action-types').default
+const { createActionTypes } = require('../index')
 
 /**
  *  Create Action Types - Test
