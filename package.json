@@ -1,6 +1,6 @@
 {
   "name": "redux-utilities",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Redux Utilities",
   "main": "index.js",
   "scripts": {
