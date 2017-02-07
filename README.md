@@ -4,8 +4,9 @@ It has only two utility functions `createActionTypes` and `createReducer`.
 
 
 [![Build Status](https://img.shields.io/travis/bulicmatko/redux-utilities.svg?style=flat-square)](https://travis-ci.org/bulicmatko/redux-utilities)
-[![NPM Status](https://img.shields.io/npm/dt/redux-utilities.svg?style=flat-square)](https://www.npmjs.org/package/redux-utilities)
+[![NPM Status](https://img.shields.io/npm/v/redux-utilities.svg?style=flat-square)](https://www.npmjs.com/package/redux-utilities)
 [![NPM Status](https://img.shields.io/npm/dm/redux-utilities.svg?style=flat-square)](http://npm-stat.com/charts.html?package=redux-utilities&from=2017-01-01)
+[![NPM Status](https://img.shields.io/npm/dt/redux-utilities.svg?style=flat-square)](https://www.npmjs.org/package/redux-utilities)
 [![NPM Status](https://img.shields.io/npm/l/redux-utilities.svg?style=flat-square)](https://github.com/bulicmatko/redux-utilities/blob/master/LICENSE)
 
 
