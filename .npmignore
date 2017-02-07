@@ -1,0 +1,18 @@
+# NPM Ignore Configuration File
+# See https://docs.npmjs.com/misc/developers#keeping-files-out-of-your-package for more details
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Ignored directories
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+src/
+test/
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Ignored files
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+.babelrc
+.editorconfig
+.eslintrc
+.gitignore
+.npmignore
+.travis.yml

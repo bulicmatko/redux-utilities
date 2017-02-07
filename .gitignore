@@ -1,0 +1,37 @@
+# Git Ignore Configuration File
+# See https://git-scm.com/docs/gitignore for more details
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Project generated directories
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+lib/
+node_modules/
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Project generated files
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+npm-debug.log
+yarn-error.log
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# IDE generated directories
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+.idea/
+.vscode/
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# IDE generated files
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+.project
+*.iml
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# OS generated directories
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+__MACOSX/
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# OS generated files
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+.DS_Store
+Thumbs.db

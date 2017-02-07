@@ -1,0 +1,27 @@
+{
+  // Babel Configuration File
+  // See https://babeljs.io/docs/usage/babelrc/ for more details
+
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  // Presets
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  "presets": [
+    "es2015"
+  ],
+
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  // Plugins
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  "plugins": [
+    "transform-object-rest-spread"
+  ],
+
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  // Environment
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  "env": {
+    "production": {
+      "presets": ["babili"]
+    }
+  }
+}
