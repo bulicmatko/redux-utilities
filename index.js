@@ -2,6 +2,6 @@
  *  Redux Utilities
  */
 module.exports = {
-  createActionTypes: require('./lib/create-action-types'),
-  createReducer: require('./lib/create-action-types')
+  createActionTypes: require('./lib/create-action-types').default,
+  createReducer: require('./lib/create-action-types').default
 }
