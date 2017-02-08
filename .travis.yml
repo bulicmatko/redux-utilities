@@ -4,7 +4,7 @@ node_js:
 before_install:
   - npm i -g npm@^3.10.0
 install:
-  - npm i
+  - npm i --dev
 script:
   - npm run lint
   - npm run build
