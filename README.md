@@ -1,6 +1,5 @@
 # Redux Utilities
-> This is a small library with some helper functions useful for applications build with [Redux](redux.js.org).  
-It has only two utility functions `createActionTypes` and `createReducer`.
+> This is a small library with some helper functions useful for applications build with [Redux](redux.js.org).
 
 
 [![Build Status](https://img.shields.io/travis/bulicmatko/redux-utilities.svg?style=flat-square)](https://travis-ci.org/bulicmatko/redux-utilities)
@@ -109,6 +108,11 @@ combineReducers({
 })
 ...
 ```
+
+
+### Create Module Factory
+
+Docs: WIP
 
 
 ## Contributing
